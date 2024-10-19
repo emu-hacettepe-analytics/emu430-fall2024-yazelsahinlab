@@ -3,6 +3,8 @@ title: "About Me"
 sidebar: false 
 ---
 
+Hello,my name is Yazel Sahin.I'm a third year undergraduate student at Hacettepe University,Department of Industrial Engineering.I like to improve myself.
+
 # Education
 
 -   B.S., Industrial Engineering, Hacettepe University, Turkey, 2021 - ongoing.
@@ -36,3 +38,7 @@ Movies
 Puzzle,Sudoku
 
 Fitness
+
+# Resume
+
+You can find my resume here:[Yazel Şahin-CV.pdf](https://drive.google.com/file/d/1ma_9SI_H6kb3AZ8HbsR7cRK9kVkHHe-C/view?usp=sharing)

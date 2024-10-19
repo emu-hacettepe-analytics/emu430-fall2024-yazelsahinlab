@@ -25,7 +25,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "B.S., Industrial Engineering, Hacettepe University, Turkey, 2021 - ongoing."
+    "text": "Hello,my name is Yazel Sahin.I’m a third year undergraduate student at Hacettepe University,Department of Industrial Engineering.I like to improve myself."
   },
   {
     "objectID": "about.html#employements",
@@ -46,7 +46,10 @@
     "href": "assignments/assignment-1.html",
     "title": "Assignment 1",
     "section": "",
-    "text": "1 + 1\n\n[1] 2\n\n\nMy first assignment has two parts."
+    "text": "1 + 1\n\n[1] 2\n\n\nMy first assignment has two parts.",
+    "crumbs": [
+      "Assignment 1"
+    ]
   },
   {
     "objectID": "assignments.html",
