@@ -4,7 +4,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Yazel Sahin's Analytics Lab"
+  title: "[Yazel Sahin]'s Analytics Lab"
   navbar:
     search: true
     left:
