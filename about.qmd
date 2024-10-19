@@ -5,26 +5,34 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2021 - ongoing.
 
 # Work Experience
 
-## Employements
-
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
-
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
+1.  **Locomar,** Marketing Intern, 12/08/2024-20/09/2024(Voluntary Internship)
 
-2.  Firm bbb, position yyy, year yyy
+2.  **Tarım Kredi Tedarik ve Üretim A.Ş.**, Production Planning Intern, 01/07/2024-29/07/2024
+
+3.  **Denizbank,** Denizaşırı Online Intern, 22/05/2023-23/06/2023(Voluntary Internship)
 
 # Projects
 
+Facility Location and Layout
+
+Optimization and Modelling
+
 # Competencies
 
-R, Quarto, Git, Python
+German
+
+R, Quarto,Minitab,AutoCAD,SQL
 
 # Hobbies
+
+Movies
+
+Puzzle,Sudoku
+
+Fitness

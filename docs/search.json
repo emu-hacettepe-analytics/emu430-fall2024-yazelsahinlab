@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to My Analytics Lab",
+    "title": "Welcome to Yazel’s Analytics Lab",
     "section": "",
-    "text": "Hello! My name is xxx xxxx.\nThis is my personal webpage.\nPlease stay tuned to follow my works on data analytics, blog posts, and more.\nThis is our template.\n\n\n\n Back to top"
+    "text": "Hello! My name is Yazel Şahin.\nThis is my personal webpage.\nPlease stay tuned to follow my works on data analytics, blog posts, and more.\n\n\n\n Back to top"
   },
   {
     "objectID": "assignments/assignment-2.html",
@@ -25,7 +25,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing."
+    "text": "B.S., Industrial Engineering, Hacettepe University, Turkey, 2021 - ongoing."
   },
   {
     "objectID": "about.html#employements",
@@ -39,7 +39,7 @@
     "href": "about.html#internships",
     "title": "About Me",
     "section": "Internships",
-    "text": "Internships\n\nFirm aaa, position xx, year xxx\nFirm bbb, position yyy, year yyy"
+    "text": "Internships\n\nLocomar, Marketing Intern, 12/08/2024-20/09/2024(Voluntary Internship)\nTarım Kredi Tedarik ve Üretim A.Ş., Production Planning Intern, 01/07/2024-29/07/2024\nDenizbank, Denizaşırı Online Intern, 22/05/2023-23/06/2023(Voluntary Internship)"
   },
   {
     "objectID": "assignments/assignment-1.html",
@@ -53,7 +53,10 @@
     "href": "assignments.html",
     "title": "My Assignments",
     "section": "",
-    "text": "On this page, I showcase the assignment I conducted for the [term and year, e.g. Fall 2023] EMU 430 Data Analytics course.\nPlease use left menu to navigate through my assignments.\nThe most recent update to this page was made on October 25, 2023\n\n\n\n Back to top"
+    "text": "On this page, I showcase the assignment I conducted for the [term and year, e.g. Fall 2024] EMU430 Data Analytics course.\nPlease use left menu to navigate through my assignments.\nThe most recent update to this page was made on October 10, 2024\n\n\n\n Back to top",
+    "crumbs": [
+      "My Assignments"
+    ]
   },
   {
     "objectID": "posts.html",
