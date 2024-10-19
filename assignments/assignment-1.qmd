@@ -12,4 +12,28 @@ My first assignment has two parts.
 
 ## (a)
 
+Here is the video I have watched:[Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - Mustafa Baydoğan & Erdi Daşdemir](https://www.youtube.com/watch?v=1Mvkn71dhaA&t)
+
+The video is about Associate Professor Mustafa Gökçe Baydoğan conveying his experiences and knowledge about data science.
+
+Mr. Baydoğan completed his undergraduate and graduate studies at middle east technical university and then went to Arizona State University in America to do his doctorate.After his PhD, he did some research and returned to Türkiye and is currently working here as a faculty member at Boğaziçi University.He is also the founder of Algopoly Software and Consulting A.Ş.
+
+Mr. Baydoğan works on large-scale data mining, time series analysis, pattern discovery, operations research using data science tools.In this conversation, he also tells about his own sectoral experiences.
+
+## **Questions**
+
+**1)**Do the forecasting techniques we learn in classes literally work in real life?
+
+**2)** Which of the following is not one of the decision-making processes in traditional/deep learning methods?
+
+a)Interpretability
+
+b)Ability to Direct
+
+c)Ability to Reproduce
+
+d)Being Able to Robust
+
+e)Ability to Translate into a Decision
+
 ## (b)

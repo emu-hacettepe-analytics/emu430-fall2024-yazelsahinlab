@@ -46,7 +46,7 @@
     "href": "assignments/assignment-1.html",
     "title": "Assignment 1",
     "section": "",
-    "text": "1 + 1\n\n[1] 2\n\n\nMy first assignment has two parts.",
+    "text": "1 + 1\n\n[1] 2\n\n\nMy first assignment has two parts.\n\n\nHere is the video I have watched:Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - Mustafa Baydoğan & Erdi Daşdemir\nThe video is about Associate Professor Mustafa Gökçe Baydoğan conveying his experiences and knowledge about data science.\nMr. Baydoğan completed his undergraduate and graduate studies at middle east technical university and then went to Arizona State University in America to do his doctorate.After his PhD, he did some research and returned to Türkiye and is currently working here as a faculty member at Boğaziçi University.He is also the founder of Algopoly Software and Consulting A.Ş.\nMr. Baydoğan works on large-scale data mining, time series analysis, pattern discovery, operations research using data science tools.In this conversation, he also tells about his own sectoral experiences.\n\n\n\n1)Do the forecasting techniques we learn in classes literally work in real life?\n2) Which of the following is not one of the decision-making processes in traditional/deep learning methods?\na)Interpretability\nb)Ability to Direct\nc)Ability to Reproduce\nd)Being Able to Robust\ne)Ability to Translate into a Decision",
     "crumbs": [
       "Assignment 1"
     ]
@@ -74,5 +74,25 @@
     "title": "[Student/Group Full Name]'s Analytics Lab",
     "section": "",
     "text": "Back to top"
+  },
+  {
+    "objectID": "assignments/assignment-1.html#a",
+    "href": "assignments/assignment-1.html#a",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "Here is the video I have watched:Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler - Mustafa Baydoğan & Erdi Daşdemir\nThe video is about Associate Professor Mustafa Gökçe Baydoğan conveying his experiences and knowledge about data science.\nMr. Baydoğan completed his undergraduate and graduate studies at middle east technical university and then went to Arizona State University in America to do his doctorate.After his PhD, he did some research and returned to Türkiye and is currently working here as a faculty member at Boğaziçi University.He is also the founder of Algopoly Software and Consulting A.Ş.\nMr. Baydoğan works on large-scale data mining, time series analysis, pattern discovery, operations research using data science tools.In this conversation, he also tells about his own sectoral experiences.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#questions",
+    "href": "assignments/assignment-1.html#questions",
+    "title": "Assignment 1",
+    "section": "",
+    "text": "1)Do the forecasting techniques we learn in classes literally work in real life?\n2) Which of the following is not one of the decision-making processes in traditional/deep learning methods?\na)Interpretability\nb)Ability to Direct\nc)Ability to Reproduce\nd)Being Able to Robust\ne)Ability to Translate into a Decision",
+    "crumbs": [
+      "Assignment 1"
+    ]
   }
 ]
