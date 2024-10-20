@@ -23,7 +23,7 @@ website:
             
     tools:
       - icon: github
-        href: https://github.com/yazelsahin
+        href: https://github.com/emu-hacettepe-analytics/emu430-fall2024-yazelsahinlab
       - icon: twitter
         href: https://twitter.com
       - icon: linkedin

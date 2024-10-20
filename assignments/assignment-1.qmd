@@ -2,11 +2,7 @@
 title: "Assignment 1"
 ---
 
-```{r}
-1 + 1
-```
-
-My first assignment has two parts.
+My first assignment has two parts:
 
 ## (a)
 
@@ -35,3 +31,55 @@ d)Being Able to Robust
 e)Ability to Translate into a Decision
 
 ## (b)
+
+In the second part of the assignment, I have completed some tasks:
+
+• Import the “polls_us_election_2016” data set from the dslabs package.
+
+```{r chunk_1}
+library(dslabs)
+data("polls_us_election_2016")
+```
+
+• Display the first 10 rows of the data set.
+
+```{r chunk_2}
+first_ten_row <- head(polls_us_election_2016,10)
+print(first_ten_row)
+```
+
+• Calculate and display the total number of NA values in the entire data set.
+
+```{r}
+total_na <- sum(is.na(polls_us_election_2016))
+total_na
+```
+
+• Replace all NA values in the “polls_us_election_2016” data set as follows: For
+numeric columns, replace NA values with your birth year. For character or factor
+columns, replace NA values with your first name. Store the modified data set as
+a new object.Print the first ten rows of the new data frame.
+
+```{r}
+birth_year<-2002
+first_name<-"Yazel"
+no_nas_data<-polls_us_election_2016
+for (col in names(no_nas_data)){ #Check the type of column
+  if (is.numeric(no_nas_data[[col]])) { #If it is a numeric column, replace the NA with the birth year
+    no_nas_data[[col]] <- ifelse(is.na(no_nas_data[[col]]), birth_year, no_nas_data[[col]])
+  } else { #If it is a character or factor column, replace the NAS with first name
+    no_nas_data[[col]] <- ifelse(is.na(no_nas_data[[col]]), first_name, no_nas_data[[col]])
+  }
+}
+new_first_ten_row <- head(no_nas_data,10)
+new_first_ten_row 
+#[^1]
+#[^1]:I wrote this code with the help of ChatGPT.
+```
+
+• Print the total number of NAs remaining in the new data frame.
+
+```{r}
+total_na<-sum(is.na(no_nas_data))
+total_na
+```
