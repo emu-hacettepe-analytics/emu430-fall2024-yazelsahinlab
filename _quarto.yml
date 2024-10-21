@@ -1,9 +1,10 @@
+---
 project:
   type: website
   output-dir: docs
 
 website:
-  title: "[Student/Group Full Name]'s Analytics Lab"
+  title: "Yazel Sahin's Analytics Lab"
   navbar:
     search: true
     left:
@@ -22,11 +23,9 @@ website:
             
     tools:
       - icon: github
-        href: https://twitter.com
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/emu-hacettepe-analytics/emu430-fall2024-yazelsahinlab
       - icon: linkedin
-        href: https://linkedin.com
+        href: https://www.linkedin.com/in/yazel-%C5%9Fahin-73313a178/
 
   sidebar:
     - title: "Assignments"
@@ -52,4 +51,6 @@ format:
 
 
 editor: visual
+---
+
 
