@@ -3,7 +3,7 @@ title: "About Me"
 sidebar: false 
 ---
 
-Hello,my name is Yazel Sahin.I'm a third year undergraduate student at Hacettepe University,Department of Industrial Engineering.I like to improve myself.
+Hello,my name is Yazel Şahin.I'm a third year undergraduate student at Hacettepe University,Department of Industrial Engineering.I like to improve myself.
 
 # Education
 
