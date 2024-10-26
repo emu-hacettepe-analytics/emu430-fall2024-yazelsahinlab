@@ -55,7 +55,7 @@
     "href": "assignments/assignment-1.html#questions",
     "title": "Assignment 1",
     "section": "Questions",
-    "text": "Questions\n1)Do the forecasting techniques we learn in classes literally work in real life?\n2) Which of the following is not one of the decision-making processes in traditional/deep learning methods?\na)Interpretability\nb)Ability to Direct\nc)Ability to Reproduce\nd)Being Able to Robust\ne)Ability to Translate into a Decision\nAnswer:c",
+    "text": "Questions\n1)The results that we have calculated theoretically and reached thanks to past experiences can sometimes be wrong.What is it called if a demand forecast is incorrect due to the fact that real-life data is dirty?\nAnswer:Censored Demand\n2) Which of the following is not one of the decision-making processes in traditional/deep learning methods?\na)Interpretability\nb)Ability to Direct\nc)Ability to Reproduce\nd)Being Able to Robust\ne)Ability to Translate into a Decision\nAnswer:c",
     "crumbs": [
       "Assignment 1"
     ]

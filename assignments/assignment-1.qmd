@@ -16,7 +16,9 @@ Mr. Baydoğan works on large-scale data mining, time series analysis, pattern di
 
 ## **Questions**
 
-**1)**Do the forecasting techniques we learn in classes literally work in real life?
+**1)**The results that we have calculated theoretically and reached thanks to past experiences can sometimes be wrong.What is it called if a demand forecast is incorrect due to the fact that real-life data is dirty?
+
+Answer:Censored Demand
 
 **2)** Which of the following is not one of the decision-making processes in traditional/deep learning methods?
 
