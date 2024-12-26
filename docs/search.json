@@ -4,7 +4,7 @@
     "href": "project.html",
     "title": "Our Course Project",
     "section": "",
-    "text": "I’m honored to be a member of the [group name] project team.\nBelow, you’ll find a brief summary of our project. To access a detailed project description, please go to https://[your-project-url].\nSummary\n[provide a biref summary of your project]\n\n\n\n Back to top"
+    "text": "I’m honored to be a member of the ANALYTICA project team.\nBelow, you’ll find a brief summary of our project. To access a detailed project description, please go to Analytica’s Project Lab .\nSummary\nTraffic accidents pose a significant challenge for cities, affecting safety, traffic flow, and public well-being. To better understand the dynamics of traffic accidents in İzmir, we utilized the data set titled “İzmir Metropolitan Municipality Defective, Accident Vehicle Data”, published on the İzmir Metropolitan Municipality Open Data Portal. This data set provides valuable information such as the date, type, time, and destination of traffic accidents that occurred within the metropolitan area.\nThe primary aim of this project is to analyze and interpret the data to uncover patterns, identify critical problem areas, and offer insights that can contribute to improved traffic management and accident prevention strategies. By leveraging this data set, we aim to address several key questions:\nAccident Prone Destinations: Which directions experience the highest number of accidents, and what factors may contribute to these trends?\nDate-Based Accident Patterns: Which date ranges see the highest frequency of accidents? Are there specific days or months with consistently high rates?\nTime-Based Trends: What time ranges during the day are most accident-prone? How do these patterns correlate with daily traffic flows and rush hours?\nResponse Time Trends: How efficient are interventions in terms of response time? Are there significant variations across different times or locations?\nMonthly Accident Trends: What patterns can be observed in the number of accidents on a monthly basis? Are there any seasonal trends?\nImpact of Special Days and Seasons: How do events such as holidays or seasonal changes influence the frequency and nature of accidents?\nBy analyzing these questions, we aim to provide a comprehensive understanding of traffic accidents in İzmir. The findings from this project can offer actionable insights to policymakers, traffic authorities, and urban planners, helping them implement targeted measures to enhance road safety, reduce accidents, and improve traffic efficiency in the city.\nThis project demonstrates how open data can serve as a powerful tool for addressing real-world challenges, fostering evidence-based decision-making, and promoting a safer city for all residents.\n\n\n\n Back to top"
   },
   {
     "objectID": "personal2.html",
@@ -25,7 +25,7 @@
     "href": "assignments.html",
     "title": "My Assignments",
     "section": "",
-    "text": "On this page, I showcase the assignment I conducted for the Fall 2024 EMU430 Data Analytics course.\nPlease use left menu to navigate through my assignments.\nThe most recent update to this page was made on October 24, 2024\n\n\n\n Back to top",
+    "text": "On this page, I showcase the assignment I conducted for the Fall 2024 EMU430 Data Analytics course.\nPlease use left menu to navigate through my assignments.\nThe most recent update to this page was made on December 26, 2024.\n\n\n\n Back to top",
     "crumbs": [
       "My Assignments"
     ]
@@ -75,7 +75,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hello,my name is Yazel Şahin.I’m a third year undergraduate student at Hacettepe University,Department of Industrial Engineering.I like to improve myself."
+    "text": "Hello,my name is Yazel Şahin.I’m a third year undergraduate student at Hacettepe University,Department of Industrial Engineering.I like to improve myself.\n\nEducation\n\nB.S., Industrial Engineering, Hacettepe University, Turkey, 2021 - ongoing.\n\n\n\nWork Experience\n1.D4D EXHIBITS, Business Development Team Member, 25/12/2024-Current\n\n\nInternships\n\nLocomar, Marketing Intern, 12/08/2024-20/09/2024(Voluntary Internship)\nTarım Kredi Tedarik ve Üretim A.Ş., Production Planning Intern, 01/07/2024-29/07/2024\nDenizbank, Denizaşırı Online Intern, 22/05/2023-23/06/2023(Voluntary Internship)\n\n\n\nProjects\nNew Product Development\nData Analytics\nFacility Location and Layout\nOptimization and Modelling\n\n\nCompetencies\nGerman\nR, Quarto,Minitab,AutoCAD,SQL\n\n\nHobbies\nMovies\nPuzzle,Sudoku\nFitness\n\n\nResume\nYou can find my resume here:Yazel Şahin-CV.pdf\n\n\n\n\n Back to top"
   },
   {
     "objectID": "about.html#internships",
